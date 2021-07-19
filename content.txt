@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+
+
+
+
+<header>
+    <div class="header_menu_biggestDiv">
+        <div class="header_menu_text1">SplitBills</div>
+        <div class="header_menu_text2">
+            <div class="header_menu_text2a">How it works</div>
+            <div class="header_menu_text2a">Features</div>
+            <div class="header_menu_text2a">Blog</div>
+            <div class="header_menu_text2a">Help</div>
+        </div>
+        <div class="header_menu_text3">
+            <div class="header_menu_text3a">Log in</div>
+            <div class="header_menu_text3a">|</div>
+            <div class="header_menu_text3a">
+                <div class="header_menu_SignUp">
+                    Sign Up</div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<body>
+    <div class="container_fluid">
+        <section>
+            <div class="section1_biggestDiv1">
+                <div class="section1_image1">
+                    <img src="images/section1Image1.svg" alt="section1Image1">
+                </div>
+                <div class="section1_biggestDiv2">
+                    <div class="section1_text1">
+                        <h4>Transactions are increasingly easy using SplitBills
+                        </h4>
+                    </div>
+                    <div class="section1_text2">
+                        <h4>Easy to use, Simple to use & Safety to use.</h4>
+                    </div>
+                    <div class="section1_biggestDiv3">
+                        <div class="section1_biggestDiv3a">
+                            <div class="section1_text1a">
+                                <img src="images/imageAppStorage.svg" alt="imageAppStorage">
+                            </div>
+                            <div class="section1_text1b">
+                                <li class="">Get it on</li>
+                                <li class="">App storage </li>
+                            </div>
+                        </div>
+                        <div class="section1_biggestDiv3b">
+                            <div class="section1_text1a">
+                                <img src="images/imageAppStorage.svg" alt="imageAppStorage">
+                            </div>
+                            <div class="section1_text1b">
+                                <li class="">Get it on</li>
+                                <li class="">App storage </li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section1_biggestDiv4">
+                <div class="section1_images1">
+                    <img src="images/section1Images1.svg" alt="section1Images1">
+
+                </div>
+                <div class="section1_images2">
+                    <img src="images/section1Images2.svg" alt="section1Images2">
+
+                </div>
+                <div class="section1_images2">
+                    <img src="images/section1Images3.svg" alt="section1Images3">
+
+                </div>
+                <div class="section1_images3">
+                    <img src="images/section1Images4.svg" alt="section1Images">
+
+                </div>
+
+            </div>
+        </section>
+    </div>
+
+
+    <!-- Section2 -->
+    <div class="container">
+        <section>
+            <div class="section2_text1">
+                <h4> Socializing becomes more fun with SplitBills</h4>
+            </div>
+            <div class="section2_text2">
+                <h4> Want to pay for anything is as easy as through the touch of a finger. Through SplitBills, you can carry out any transaction practically from bill payments, barcode scan transactions, to e-commerce. enjoy a payment method that is faster,
+                    practical and safe.</h4>
+            </div>
+        </section>
+        <!-- Section3 -->
+        <section>
+            <div class="section3_container1">
+                <div class="section3_content1">
+                    <div class="section3_content1Div">
+                        <h2 class="section3_content1a">Multi-Transaction</h2>
+                        <h4 class="section3_content1a2">Easy use with multi transaction features</h4>
+                    </div>
+                    <div class="section3_image1b">
+                        <img src="images/section3Image1.svg" alt="section3Image1">
+                    </div>
+                </div>
+            </div>
+            <!--  -->
+            <div class="section3_div2">
+                <div class="section3_container1">
+                    <div class="section3_content1">
+                        <div class="section3_image1b2">
+                            <img src="images/section3Image2.svg" alt="section3Image2">
+                        </div>
+                        <div class="section3_content1Div2">
+                            <h2 class="section3_content1a">Safety System</h2>
+                            <h4 class="section3_content1a2">Easy use with safety system features</h4>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!--  -->
+            <div class="section3_div2">
+                <div class="section3_container1">
+                    <div class="section3_content1">
+                        <div class="section3_content1Div">
+                            <h2 class="section3_content1a">Cashless System
+                            </h2>
+                            <h4 class="section3_content1a2">Say goodbay to Cash Transaction</h4>
+                        </div>
+                        <div class="section3_image1b">
+                            <img src="images/section3Image3.svg" alt="section3Image3">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!--  -->
+    <!-- Top Feature -->
+    <div class="topFeature1">
+        <h2 class="topFeature1_text1"> Promo</h2>
+        <div class="topFeature1_bigger_content123">
+            <div class="topFeature1_content1">
+                <h2 class="topFeature1_content1_text1">Try to be Cashless with SplitBills</h2>
+                <img class="topFeature_Images1" src="images/topFeatureImages1.svg" alt="">
+            </div>
+            <div class="topFeature1_content2">
+                <h2 class="topFeature1_content1_text2">SplitBills Can Be FUN!</h2>
+                <img class="topFeature_Images2" src="images/topFeatureImages2.svg" alt="">
+            </div>
+            <div class="topFeature1_content3">
+                <h2 class="topFeature1_content1_text3">Payment with SplitBills
+                </h2>
+                <img class="topFeature_Images3" src="images/topFeatureImages3.svg" alt="">
+            </div>
+        </div>
+    </div>
+    <!--  -->
+    <div class="screen">
+        <div class="footer_div">
+            <div class="footer_div1">
+                <h2 class="footer_text"> Learn More </h2>
+                <div class="footer_text1"> how it works</div>
+                <div class="footer_text2"> who we are</div>
+                <div class="footer_text2"> Carteers</div>
+                <div class="footer_text2"> Blog</div>
+                <div class="footer_text2"> FAQs</div>
+         
+            </div>
+            <!--  -->
+            <div class="footer_div2">
+                <h2 class="footer_text"> Social</h2>
+                <div class="footer_text1">Facebook</div>
+                <div class="footer_text2"> Instagram</div>
+                <div class="footer_text2"> Twitter</div>
+                <div class="footer_text2"> Pinterest</div>
+                <div class="footer_text2"> Linkedin</div>
+            </div>
+
+            <div class="footer_div3">
+                <h2 class="footer_text"> Subscribe</h2>
+                <div class="footer_display_input">
+                    <div>
+                        <input class="footer_input" type="text" placeholder="Address email">
+                    </div>
+                    <div>
+                        <img src="images/muiTen.svg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="footer_div4">
+                <h2 class="footer_text"> Download</h2>
+                <div class="footer_box">
+                    <div class="section1_text1a">
+                        <img src="images/imageGoogle.svg" alt="imageAppStorage">
+                    </div>
+                    <div class="section1_text1b">
+                        <li class="">Get it on</li>
+                        <li class="">Google play </li>
+                    </div>
+                </div>
+                <div class="footer_box1">
+                    <div class="section1_text1a">
+                        <img src="images/imageAppStorage.svg" alt="imageAppStorage">
+                    </div>
+                    <div class="section1_text1b">
+                        <li class="">Get it on</li>
+                        <li class="">App storage </li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container_fluid">
+        <div class="div_end_footer">
+            <div class="footer_content1">
+                <h4 class="footer_content1_text1">© 2020 SplitBills Inc.</h4>
+            </div>
+            <div class="footer_content2">
+                <div>
+                    <h4 class="footer_content1_text1">Term of Use</h4>
+                </div>
+                <div>
+                    <h4 class="footer_content1_text1">Privacy Police</h4>
+                </div>
+                <div>
+                    <h4 class="footer_content1_text1">Cardholder Agreement</h4>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
